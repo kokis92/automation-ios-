@@ -2,7 +2,7 @@
 End-to-end Swift XCTest automation framework with CI/CD using GitHub Actions
 # Swift XCTest Automation Framework (GitHub Actions CI)
 
-A professional, end-to-end QA automation portfolio project. This repo houses a modular **XCTest/XCUITest** framework for iOS that integrates with **ATP (Automated Test Platform)** and **GitHub Actions** for CI, reporting, and dashboards. It’s designed to mirror real-world SDET workflows and prepare you for QA Automation interviews within a year.
+A professional, end-to-end QA automation portfolio project. This repo houses a modular **XCTest/XCUITest** framework for iOS that integrates with **GitHub Actions** for CI, reporting, and dashboards. It’s designed to mirror real-world SDET workflows and prepare you for QA Automation interviews within a year.
 
 ---
 
